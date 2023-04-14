@@ -1,5 +1,8 @@
 # telescope-project-scripts.nvim
 
+I am working on buf.nvim, which will unify project + buffer indexing plus more importantly offer
+shell execution runner to use the same design of persistent and tmp buffers. So archive this.
+
 An extension for [telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim)
 that allows you to edit and run shell scripts associated to projects.
 
